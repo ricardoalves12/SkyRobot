@@ -1,5 +1,6 @@
 # This project will show you a step by step on how to build a friendly robot that when detects infrared movements it waves at you.
 
+IDE: Arduino ide
 Material used in this project:
 Cardboard box
 Microcontroller (Arduino Uno)
