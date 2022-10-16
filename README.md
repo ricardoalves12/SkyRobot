@@ -1,4 +1,4 @@
-# This project will show you a step by step on how to build a friendly robot that when detects infrared movements then waves at you.
+# This project will show you a step by step on how to build a friendly robot that when detects infrared movements it waves at you.
 
 Material used in this project:
 Cardboard box
